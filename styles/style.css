@@ -9,6 +9,7 @@
   padding-bottom: 100px;
   padding-left: 50px;
   padding-right: 50px;
+  min-height: 293px;
 }
 
 .menu-link {
@@ -71,7 +72,7 @@
  align-self: center;
  text-align: center;
  font-size: 100px;
- 
+
  }
  .aligned-text_right {
   width: 387px;
