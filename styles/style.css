@@ -183,13 +183,13 @@
   padding-left: 40px;
 }
 .text__film {
-  padding-top: 20px;
+  padding-top: 274px;
 }
 .text__book {
-padding-top: 20px;
+padding-top: 30px;
 }
 .text__picture {
-padding-top: 20px;
+padding-top: 126px;
 }
 .more-button {
   border: 1px;
@@ -269,7 +269,6 @@ padding-top: 20px;
 .footer__social-list {
   display: flex;
   gap: 48px;
-  margin-left: 29px;
   flex-direction: row-reverse;
   width: 240px;
   margin-left: 76px;
