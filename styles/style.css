@@ -129,9 +129,7 @@ article {
   display: block;
   height: 100%;
   text-decoration: none;
-}
-.card-link {
- width: 334px;
+  width: 334px;
  max-height: 596px;
 }
 .lots__card-list {
@@ -184,13 +182,13 @@ article {
   padding-left: 40px;
 }
 .text__film {
-  padding-top: 274px
+  padding-top: 277px
 }
 .text__book {
-  padding-top: 30px;
+  padding-top: 34px;
 }
 .text__picture {
-  padding-top: 126px;
+  padding-top: 130px;
 }
 .more-button {
   border: 1px;
